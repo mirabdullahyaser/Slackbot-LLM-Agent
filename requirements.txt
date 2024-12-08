@@ -1,0 +1,10 @@
+openai
+boto3
+slack_bolt
+slack-sdk
+langchain
+python-dotenv
+langchain-community
+langchain-nvidia-ai-endpoints
+python-dotenv
+langchainhub

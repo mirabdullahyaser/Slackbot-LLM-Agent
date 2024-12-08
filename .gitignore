@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# venv
+slackbot-venv
+
 # Distribution / packaging
 .Python
 build/
